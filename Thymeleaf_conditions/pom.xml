@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.demo</groupId>
-	<artifactId>SpringBoot_Thymeleaf</artifactId>
+	<artifactId>SpringBoot_conditions</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Thymeleaf</name>
 	<description>Spring Boot demo for thymeleaf</description>
